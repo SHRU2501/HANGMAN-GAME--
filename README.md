@@ -1,9 +1,6 @@
 # HANGMAN-GAME- 
 Classic Hangman game built with Python. Guess letters, solve the word, and avoid the full stick figure! Features randomized words, ASCII art visuals, and a clean CLI interface. Great for beginners to learn loops, conditionals, and string logic. Fun, educational, and easy to expand!
 
-# HANGMAN CLI Game
-Classic Hangman game built with Python. Test your luck and logic by guessing the hidden word before the ASCII stick figure meets its fate!
-
 ## Features
 - Random word selection from a curated list
 - ASCII art visual feedback for each wrong guess
@@ -26,3 +23,10 @@ python hangman.py
 __pycache__/
 *.pyc
 .env
+
+MIT License
+
+Copyright (c) 2025 Shruti A. Wadettiwar
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+
